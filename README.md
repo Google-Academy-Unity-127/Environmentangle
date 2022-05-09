@@ -18,7 +18,10 @@ Protect the Green!
 
 ## Ürün Açıklaması
 
-- Protect the Green 2D eğitsel bir oyundur. Bu oyun ile gelişim yaşındaki çocuklara çevresel farkındalık kazandırma hedeflenmektedir. Çevre sorunu bitmeyen bir sorun olmakla birlikte, çevreyi korumak adına alınan aksiyonlar ile çevre sorunu bitmiyor sadece erteleniyor. Çevre sorununun kalıcı çözümü, gelecek kuşakların eğitimi ile sağlanabilir. Bu yüzden 6 - 12 yaş arası gelişim çağındaki çocuklara sıkıcı olmayan bir eğitim oyunu hazırladık. Oyunumuzun temel fikri TEMA gibi çevre örgütlerinin çöp toplama etkinliklerinden ortaya çıkmıştır. Oyunun bir diğer amacı ise oyunu oynayan çocukların ileride çevre örgütlerinin çöp toplama etkinliklerine aşina olması ve gönüllülük esasının teşviklenmesidir.
+- Protect the Green 2D eğitsel bir oyundur. Bu oyun ile gelişim yaşındaki çocuklara çevresel farkındalık kazandırma hedeflenmektedir. Çevre sorunu bitmeyen bir sorun olmakla birlikte, çevreyi korumak adına alınan aksiyonlar ile çevre sorunu bitmiyor sadece erteleniyor. Çevre sorununun kalıcı çözümü, gelecek kuşakların eğitimi ile sağlanabilir. Bu yüzden 6 - 12 yaş arası gelişim çağındaki çocuklara sıkıcı olmayan bir eğitim oyunu hazırladık. Oyunumuzun temel fikri TEMA gibi çevre örgütlerinin çöp toplama etkinliklerinden ortaya çıkmıştır. Oyunun bir diğer amacı ise oyunu oynayan çocukların ileride çevre örgütlerinin çöp toplama etkinliklerine aşina olması ve gönüllülük esasının teşviklenmesidir. 
+
+- Oyun hakkında daha detaylı bilgiler için oyunun ilk sunum videosunu izleyebilirsiniz:
+ https://www.youtube.com/watch?v=FcpoR8UeCRk
 
 ## Ürün Özellikleri
 
