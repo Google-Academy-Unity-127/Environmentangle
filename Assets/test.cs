@@ -7,7 +7,7 @@ public class test : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        //Buraya birşeyler eklediğimi düşün
     }
 
     // Update is called once per frame
