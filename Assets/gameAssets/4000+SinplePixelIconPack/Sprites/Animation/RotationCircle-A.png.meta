@@ -462,7 +462,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      RotationCircle-A 12: 21300024
+      RotationCircle-A 4: 21300008
       RotationCircle-A 11: 21300022
       RotationCircle-A 0: 21300000
       RotationCircle-A 6: 21300012
@@ -475,7 +475,7 @@ TextureImporter:
       RotationCircle-A 5: 21300010
       RotationCircle-A 1: 21300002
       RotationCircle-A 3: 21300006
-      RotationCircle-A 4: 21300008
+      RotationCircle-A 12: 21300024
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
