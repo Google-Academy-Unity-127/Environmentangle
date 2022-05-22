@@ -101,7 +101,57 @@ Neyi kötü yapıyoruz?
 
 # Sprint 2
 
+- **Sprint Notları**: Product backlog'ların içerisine detaylı bilgiler ve ne yapılması gerektiği yazılmıştır. Ayrıca product backloglar içerisinde dökümantasyon, screenshot ve linkler eklenmiştir. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde her sprinte 100'er puan verdik. İlk sprintte 100 puana ulaştık. İkinci sprintte ise ikinci sprinte ait tüm görevlerimizi tamamlayıp 200 puana ulaştık. 3. sprintte 100 puanlık görevlerimiz kaldı.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. (Toplam puan 300 sprint puanı 100)
+
+- Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira Board'da gözüken To Do item'lar yapılacak işleri (task) gösterirken, In Progress'ler şuan yapılan işleri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrumChats.docx](https://github.com/Google-Academy-Unity-127/Environmentangle/files/8748770/DailyScrumChats.docx)
+
+- **Sprint board update**: Sprint board screenshotları:![JiraBoard](https://user-images.githubusercontent.com/96313096/169679176-3e3fbe91-4242-4826-8755-d9b9527b0aa0.png)
+ ![Görevler ve aciklamari1](https://user-images.githubusercontent.com/96313096/169679105-7e33b9f8-fe2c-4586-a724-ddac62eb8499.png) ![Görevler ve aciklamari2](https://user-images.githubusercontent.com/96313096/169679112-33f7db67-996b-4d3d-b59b-44f0fae5fb56.png) ![Görevler ve aciklamari3](https://user-images.githubusercontent.com/96313096/169679124-2df1b6e9-87ec-4c22-a667-1d0e17994b00.png) ![Görevler ve aciklamari4](https://user-images.githubusercontent.com/96313096/169679138-562048ff-e18a-436d-8ef5-6815bb28a432.png) ![Görevler ve aciklamari5](https://user-images.githubusercontent.com/96313096/169679162-254b3459-33e2-4b1b-a99e-eae825a3f03c.png)
+
+
+
+
+
+
+- **Ürün Durumu: Ekran görüntüleri**: 
+![OyundanGoruntuler1](https://user-images.githubusercontent.com/96313096/169679182-46a69460-80df-4da0-8cfb-f1bf4aa0746c.png)
+![OyundanGoruntuler2](https://user-images.githubusercontent.com/96313096/169679184-515b8bc3-e76e-4831-9c6b-a5d8f9bc6f80.png)
+![OyundanGoruntuler3](https://user-images.githubusercontent.com/96313096/169679189-9c94f056-a40a-48fb-a9ca-cb16f65f8098.png)
+![NPC'ler](https://user-images.githubusercontent.com/96313096/169679193-e1c79f8b-e0c0-4687-be92-2eb772da413d.png)
+
+
+
+- **Sprint Review: Alınan kararlar**: İlk sprintte çıkardığımız derslere göre hareket ettik. Sprinti sprint tarihinden bir gün önce bitirmeyi başardık. Geçen sprint son güne yığılma olmuştu, bu sprintte daha planlı çalışarak bu sorunun önüne geçtik. Somut çıktılar aldığımız güzel bir sprint oldu. Üçüncü sprintte de bu tempoyla devam etme kararı aldık.  Sprint Review katılımcıları: Abrek Koç (Product Owner), Yiğit Can (Scrum Master), Buse İrem Az (Developer), Gökhan Birçek (Developer), Nisa Toral (Developer).
+
+- **Sprint Retrospective**:
+
+- *2. Sprint Retrospective Toplantısı 22.05.2022
+- İşleri nasıl yapıyoruz?
+
+Product Owner ve Scrum Master olarak ekibi organize ediyoruz. İkinci sprintte hepimiz kod yazdık ve projemizin ilk somut çıktısını aldık. Kod konusunda sorun yaşadığımız yerleri discordda ekran paylaşarak ve konuşarak çözümledik. 
+- Eksiğimiz var mı?
+
+Tüm grup üyeleri çalıştığı için ve şehirdışı görevlerin bu sprinte denk gelmesiyle biraz aksaklıklar yaşadık. Fakat işleri planlı ve vakti olan arkadaşların daha fazla sorumluluk almasıyla sprinti tamamladık.
+- Doğru gidiyormuyuz?
+
+Sprint puanlarımızı planlı bir şekilde tamamladığımız ve somut çıktı aldığımız için doğru gittiğimizi düşünüyoruz.
+- Neyi iyi yapıyoruz?
+
+Ekip olarak birbirimize saygılıyız ve herkesin fikrine önem veriyoruz. Her sorunu uzlaşma ile çözüyoruz. Teknik sorunlarda ise doğrudan iletişim ve ekran paylaşımı yaparak, sorunları biriktirmeden çözüp yolumuza devam ediyoruz.
+- Neyi kötü yapıyoruz?
+
+Belirttiğimiz gibi ekip olarak bu süreçte iş, okul gibi yoğun bir programdan geçtiğimiz için ikinci sprintte birinci sprinte göre daha hızlı ilerlesek de yine de aksaklıklar yaşadık.
+-Diğer Notlar:
+
+N/A
 ---
 
 # Sprint 3
