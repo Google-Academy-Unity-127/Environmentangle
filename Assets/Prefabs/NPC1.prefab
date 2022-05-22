@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 4221646325141971754}
   - component: {fileID: 4221646325141971749}
   - component: {fileID: 4221646325141971751}
+  - component: {fileID: -3645328029304162726}
   m_Layer: 0
   m_Name: NPC1
   m_TagString: Untagged
@@ -163,3 +164,20 @@ MonoBehaviour:
   walkTime: 3
   waitTime: 1
   anim: {fileID: 4221646325141971753}
+--- !u!114 &-3645328029304162726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4221646325141971759}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68afbd8642bb6eb4cb2ab701a6a23038, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxGarbageAmount: 5
+  garbageSpawnRepeatTime: 2
+  garbageFirstSpawnTime: 2
+  garbagePrefabList:
+  - {fileID: 1330462368468275666, guid: 6e7175262f202c74387f90e1f1451bd2, type: 3}

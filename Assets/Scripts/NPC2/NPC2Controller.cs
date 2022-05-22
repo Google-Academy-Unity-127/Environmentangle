@@ -71,7 +71,7 @@ public class NPC2Controller : MonoBehaviour
                 case 3:
                     rb.velocity = new Vector2(-moveSpeed, 0);
                     facing.y = 0;
-                    facing.x = -1;
+                    facing.x = 1; // -1'den 1'e çekince karakter animasyonu düzeldi..
                     transform.localScale = new Vector3(-0.75f, 0.75f, 0.75f);
 
                     break;
