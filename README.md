@@ -107,6 +107,8 @@ Neyi kötü yapıyoruz?
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde her sprinte 100'er puan verdik. İlk sprintte 100 puana ulaştık. İkinci sprintte ise ikinci sprinte ait tüm görevlerimizi tamamlayıp 200 puana ulaştık. 3. sprintte 100 puanlık görevlerimiz kaldı.
 
+- **İkinci Sprint Görevler ve Puan Sistemi**: İkinci sprint için dört ana görevimiz vardı. Her görev 25 puana eşitlenmiştir. Bunlardan birincisi oyunun ana karakterinin movement kodunu yazmak, karaktere animasyon eklemek ve oyuna entegre etmekti (25 pt). İkinci görev oyundaki 3 NPC'ye movement kodunu yazmak ve NPC'lere animasyon eklemekti (25 pt). Üçüncü görev oyundaki haritanın TilePalette ile oluşturulması ve harita üzerine objelerin (ağaç, çalı ve çiçekler) oluşturulması ayrıca bunlara layerlar atanmasıydı (25 pt). Son görev ise oyundaki collectible objeleriydi (25 pt). Collectible objeleri için garbage assetler bulundu ve bu garbage objelere Spawner kodu yazarak NPC'lere attach ettik. Dolayısıyla NPC'ler hareket ettikçe collectible itemler spawnlanabilir oldu. Bu dört görevi de tamamlayarak sprint başındaki 100 puan hedefimize ulaşmış bulunmaktayız.
+
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. (Toplam puan 300 sprint puanı 100)
 
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira Board'da gözüken To Do item'lar yapılacak işleri (task) gösterirken, In Progress'ler şuan yapılan işleri temsil etmektedir.
