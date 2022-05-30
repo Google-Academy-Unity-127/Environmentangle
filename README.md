@@ -34,6 +34,17 @@ Protect the Green!
 
 - 6 - 12 yaş arası kullanıcılar
 
+## Gelir Modeli
+
+- Ürün 6 - 12 yaş grubunu hedef aldığı için oyunda reklam uygulanmamıştır. Gelir modeli olarak proje ve sponsorluk modeli örnek alınmaktadır. (Örneğin Avrupa Birliği Dayanışma Projeleri)
+
+## Projede kullanılan assetler
+
+- Giriş ve oyun sonu ekranı: https://assetstore.unity.com/packages/2d/textures-materials/nature/free-pixel-art-hill-133118
+- Harita ve Level dizaynı: https://assetstore.unity.com/packages/2d/environments/pixel-art-top-down-basic-187605
+- Karakter: https://assetstore.unity.com/packages/2d/textures-materials/4000-simple-pixel-icon-pack-137666
+- NPC'ler: https://assetstore.unity.com/packages/2d/characters/2d-characters-family-136183 
+
 ## Product Backlog URL
 
 [Jira Backlog Board](https://unityteam127.atlassian.net/jira/software/projects/UN/boards/1/backlog)
