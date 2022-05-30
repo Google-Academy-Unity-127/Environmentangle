@@ -176,8 +176,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68afbd8642bb6eb4cb2ab701a6a23038, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxGarbageAmount: 5
-  garbageSpawnRepeatTime: 2
-  garbageFirstSpawnTime: 2
+  maxGarbageAmount: 8
+  garbageSpawnRepeatTime: 3
+  garbageFirstSpawnTime: 1
   garbagePrefabList:
   - {fileID: 1330462368468275666, guid: 6e7175262f202c74387f90e1f1451bd2, type: 3}
