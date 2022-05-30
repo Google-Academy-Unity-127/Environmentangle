@@ -158,4 +158,64 @@ N/A
 
 # Sprint 3
 
+
+- **Sprint Notları**: Product backlog'ların içerisine detaylı bilgiler ve ne yapılması gerektiği yazılmıştır. Ayrıca product backloglar içerisinde dökümantasyon, screenshot ve linkler eklenmiştir. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde her sprinte 100'er puan verdik. İlk ve ikinci sprintte 200 puana ulaştık. Üçüncü sprintte ise geriye kalan 100 puanlık hedefimize ulaştık.
+
+- **Üçüncü Sprint Görevler ve Puan Sistemi**: Üçüncü sprint için dört ana görevimiz vardı. Her görev 25 puana eşitlenmiştir. Bunlardan birincisi oyunumuzun giriş ekranını tasarlamaktı: Bu görev altında oyunumuzla bağdaşacak bir free asset, oyuna girilmesi için bir UI Text Button ve Credit Bölümü için bir UI Text Button oluşturduk (25 pt). İkinci görev oyundaki oyunun bitiş ekranını tasarlamaktı. Burada da oyunumuzu temsil eden bir free asset üzerine oyunu tamamlayanlara bir çevre farkındalığını kazandığı için bir teşekkür notu paylaştık. Bunun dışında Kaç çöpün toplandığında oyunun bitmesini sağladığımız bir kod yazdık (25 pt). Üçüncü görev oyundaki oyundaki potansiyel bugların bulunması ve build almadan önce bunların fix edilmesiydi. Bu görev kullanıcı hikayeleri ve deneyimleri açısından önenli bir yer tuttuğu için ekstra olarak inceledik ve arkadaşlarımıza da oyunu test ettirerek bug testi yaptık (25 pt). Son görev ise oyunumuzun buildini alıp oyunun tanıtım videosunu çekmekti (25 pt). 
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. (Toplam puan 300 sprint puanı 100)
+
+- Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira Board'da gözüken To Do item'lar yapılacak işleri (task) gösterirken, In Progress'ler şuan yapılan işleri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [dailySucrum3.docx](https://github.com/Google-Academy-Unity-127/Environmentangle/files/8799860/dailySucrum3.docx)
+
+
+- **Sprint board update**: Sprint board screenshotları:![JiraBoard]![JiraBoard1](https://user-images.githubusercontent.com/96313096/171035707-60e4e459-1d70-4e89-9dd7-8812dae6a298.png)![jiraBoard2](https://user-images.githubusercontent.com/96313096/171035712-52d25241-12d3-43df-82e9-51cc7eadf2bb.png)
+![JiraBoard3](https://user-images.githubusercontent.com/96313096/171035720-4cfe33e2-50be-4b01-816d-c5bf5d5c259c.png)
+![JiraBoard4](https://user-images.githubusercontent.com/96313096/171035726-c16f27a1-8655-40f9-b5f5-f311a999fbe1.png)
+![JiraBoard5](https://user-images.githubusercontent.com/96313096/171035740-e08ba852-d8f7-4bc1-b155-43ae6e0ad4f7.png)
+
+
+
+
+
+
+
+- **Ürün Durumu: Oyundan Ekran görüntüleri**: 
+![OyundanGoruntuler1](https://user-images.githubusercontent.com/96313096/171035773-9a1e9680-0ec8-44a0-b395-7dc8b4a21046.png)
+![StartMenu](https://user-images.githubusercontent.com/96313096/171035782-193dbd02-a669-461f-8210-8644ae05ba90.png)
+![EndGame](https://user-images.githubusercontent.com/96313096/171035790-9c5138b2-51b4-4b40-b37f-a9a21db9e06c.png)
+![Credits](https://user-images.githubusercontent.com/96313096/171035805-3429d8f5-18ee-40b5-a359-d235a03ea815.png)
+
+
+
+
+- **Sprint Review: Alınan kararlar**: İlk ve ikinci sprintte çıkardığımız derslere göre hareket ettik. Sprinti sprint tarihinden üç gün önce bitirmeyi başardık. Geçen sprintlerde son güne yığılma olmuştu, bu sprintte daha planlı çalışarak bu sorunun önüne geçtik. Somut çıktılar aldığımız ve projeyi bitirdiğimiz güzel bir sprint oldu. Sprint Review katılımcıları: Abrek Koç (Product Owner), Yiğit Can (Scrum Master), Buse İrem Az (Developer), Gökhan Birçek (Developer), Nisa Toral (Developer).
+
+- **Sprint Retrospective**:
+
+- *3. Sprint Retrospective Toplantısı 04.06.2022
+- İşleri nasıl yapıyoruz?
+
+Product Owner ve Scrum Master olarak ekibi organize ediyoruz. Üçüncü sprintte hepimiz kod yazdık ve projemizin son çıktısını aldık. Kod konusunda sorun yaşadığımız yerleri discordda ekran paylaşarak ve konuşarak çözümledik. 
+- Eksiğimiz var mı?
+
+Bu sprintte biraz iletişim engelimiz oldu onun dışında herkes üzerine düşen sorumlulukları yerine getirdi.
+- Doğru gidiyormuyuz?
+
+Sprint puanlarımızı planlı bir şekilde tamamladığımız ve somut çıktı aldığımız ve projeyi bitirdiğimiz için doğru gittiğimizi düşünüyoruz.
+- Neyi iyi yapıyoruz?
+
+Ekip olarak birbirimize saygılıyız ve herkesin fikrine önem veriyoruz. Her sorunu uzlaşma ile çözüyoruz. Teknik sorunlarda ise doğrudan iletişim ve ekran paylaşımı yaparak, sorunları biriktirmeden çözüp yolumuza devam ediyoruz.
+- Neyi kötü yapıyoruz?
+
+Belirttiğimiz gibi ekip olarak bu süreçte iş, okul gibi yoğun bir programdan geçtiğimiz için aksaklıklar yaşadık.
+-Diğer Notlar:
+
+N/A
 ---
+
