@@ -209,7 +209,7 @@ N/A
 
 - **Sprint Retrospective**:
 
-- *3. Sprint Retrospective Toplantısı 01.06.2022
+- *3. Sprint Retrospective Toplantısı 03.06.2022
 - İşleri nasıl yapıyoruz?
 
 Product Owner ve Scrum Master olarak ekibi organize ediyoruz. Üçüncü sprintte hepimiz kod yazdık ve projemizin son çıktısını aldık. Kod konusunda sorun yaşadığımız yerleri discordda ekran paylaşarak ve konuşarak çözümledik. 
