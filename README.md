@@ -227,6 +227,7 @@ Ekip olarak birbirimize saygılıyız ve herkesin fikrine önem veriyoruz. Her s
 - Neyi kötü yapıyoruz?
 
 Belirttiğimiz gibi ekip olarak bu süreçte iş, okul gibi yoğun bir programdan geçtiğimiz için aksaklıklar yaşadık.
+
 -Diğer Notlar:
 
 N/A
